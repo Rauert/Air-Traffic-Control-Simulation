@@ -1,0 +1,6 @@
+C:\Users\Myles\Desktop\ATCBizMaster\bin\Debug\ATCBizMaster.exe
+C:\Users\Myles\Desktop\ATCBizMaster\bin\Debug\ATCBizMaster.pdb
+C:\Users\Myles\Desktop\ATCBizMaster\bin\Debug\ATCDatabase.dll
+C:\Users\Myles\Desktop\ATCBizMaster\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Myles\Desktop\ATCBizMaster\obj\x86\Debug\ATCBizMaster.exe
+C:\Users\Myles\Desktop\ATCBizMaster\obj\x86\Debug\ATCBizMaster.pdb

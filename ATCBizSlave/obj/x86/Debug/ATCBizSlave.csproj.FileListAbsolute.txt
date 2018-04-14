@@ -1,0 +1,8 @@
+C:\Users\Myles\Desktop\ATCBizSlave\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Myles\Desktop\ATCBizSlave\bin\Debug\ATCBizSlave.exe
+C:\Users\Myles\Desktop\ATCBizSlave\bin\Debug\ATCBizSlave.pdb
+C:\Users\Myles\Desktop\ATCBizSlave\bin\Debug\ATCBizMaster.exe
+C:\Users\Myles\Desktop\ATCBizSlave\bin\Debug\ATCDatabase.dll
+C:\Users\Myles\Desktop\ATCBizSlave\bin\Debug\ATCBizMaster.pdb
+C:\Users\Myles\Desktop\ATCBizSlave\obj\x86\Debug\ATCBizSlave.exe
+C:\Users\Myles\Desktop\ATCBizSlave\obj\x86\Debug\ATCBizSlave.pdb
